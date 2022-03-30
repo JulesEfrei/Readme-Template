@@ -65,16 +65,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+* What the application does ?
+* State of the Project (Alpha, Beta, Realeased)
+* Main difficulties - [Roadmap](#roadmap)
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -138,6 +132,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
+Here is the roadmap of the project. The checked flags mean the features is out and no-checked flags mean future feature
+
 - [x] Add Changelog
 - [x] Add back to top links
 - [ ] Multi-language Support
@@ -168,10 +164,12 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
+<!-- Credit -->
+## Credit
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+List of people
+
+* [Me](https://github.com/JulesEfrei)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -188,14 +186,15 @@ GitHub Profile: [https://github.com/JulesEfrei/(https://github.com/JulesEfrei/)
 
 
 
-<!-- Credit -->
-## Credit
+<!-- LICENSE -->
+## License
 
-List of people
-
-* [Me](https://github.com/JulesEfrei)
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 
 
 
@@ -211,5 +210,5 @@ List of people
 [license-shield]: https://img.shields.io/github/license/JulesEfrei/REPOSITORY.svg?style=for-the-badge
 [license-url]: https://github.com/JulesEfrei/REPOSITORY/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/JulesEfrei
+[linkedin-url]: https://www.linkedin.com/in/jules-bruzeau/
 [product-screenshot]: images/screenshot.png
