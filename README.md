@@ -15,19 +15,17 @@
   
   <img src="images/logo.png" alt="Logo" width="80" height="80" />
 
-  <h2 align="center">Application Name</h2>
+  <h2 align="center">README Template</h2>
 
   <p align="center">
-    Short description
-    <br />
-    <!-- <a href="https://github.com/JulesEfrei/REPOSITORY"><strong>Explore the docs</strong></a> -->
+    <!-- <a href="https://github.com/JulesEfrei/Readme-Template"><strong>Explore the docs</strong></a> -->
     <br />
     <br />
-    <a href="https://github.com/JulesEfrei/REPOSITORY">View Demo</a>
+    <!-- <a href="https://github.com/JulesEfrei/Readme-Template">View Demo</a>
+    · -->
+    <a href="https://github.com/JulesEfrei/Readme-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/JulesEfrei/REPOSITORY/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/JulesEfrei/REPOSITORY/pulls">Request Feature</a>
+    <a href="https://github.com/JulesEfrei/Readme-Template/pulls">Request Feature</a>
   </p>
 </div>
 
@@ -42,6 +40,9 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
     </li>
     <li><a href="#roadmap">Roadmap / Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -58,9 +59,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-* What the application does ?
-* State of the Project (Alpha, Beta, Realeased)
-* Main difficulties - [Roadmap](#roadmap)
+* Share README template for your GitHub repository
+* State of the Project => Beta
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -69,19 +69,18 @@
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks/libraries and language used to bootstrap your project.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Markdown](https://www.markdownguide.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Select the template you need for your README and copy the content. Then modify, the content for your repository
 
 
 <!-- ROADMAP -->
@@ -89,13 +88,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 Here is the roadmap of the project. Checked flags mean the features is out and unchecked flags mean that the feature is comming.
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Add Application README template
+- [x] Add Front-end web page README template
 
-See the [open issues](https://github.com/JulesEfrei/REPOSITORY/issues) for a full list of proposed features (and known issues).
+
+See the [open issues](https://github.com/JulesEfrei/Readme-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -154,16 +151,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information. If no
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- [contributors-shield]: https://img.shields.io/github/contributors/JulesEfrei/REPOSITORY.svg?style=for-the-badge
-[contributors-url]: https://github.com/JulesEfrei/REPOSITORY/graphs/contributors -->
-<!-- [stars-shield]: https://img.shields.io/github/stars/JulesEfrei/REPOSITORY.svg?style=for-the-badge
-[stars-url]: https://github.com/JulesEfrei/REPOSITORY/stargazers -->
-[forks-shield]: https://img.shields.io/github/forks/JulesEfrei/REPOSITORY.svg?style=for-the-badge
-[forks-url]: https://github.com/JulesEfrei/REPOSITORY/network/members
-[issues-shield]: https://img.shields.io/github/issues/JulesEfrei/REPOSITORY.svg?style=for-the-badge
-[issues-url]: https://github.com/JulesEfrei/REPOSITORY/issues
-[license-shield]: https://img.shields.io/github/license/JulesEfrei/REPOSITORY.svg?style=for-the-badge
-[license-url]: https://github.com/JulesEfrei/REPOSITORY/blob/master/LICENSE.txt
+<!-- [contributors-shield]: https://img.shields.io/github/contributors/JulesEfrei/Readme-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/JulesEfrei/Readme-Template/graphs/contributors -->
+<!-- [stars-shield]: https://img.shields.io/github/stars/JulesEfrei/Readme-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/JulesEfrei/Readme-Template/stargazers -->
+[forks-shield]: https://img.shields.io/github/forks/JulesEfrei/Readme-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/JulesEfrei/Readme-Template/network/members
+[issues-shield]: https://img.shields.io/github/issues/JulesEfrei/Readme-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/JulesEfrei/Readme-Template/issues
+[license-shield]: https://img.shields.io/github/license/JulesEfrei/Readme-Template.svg?style=for-the-badge
+[license-url]: https://github.com/JulesEfrei/Readme-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jules-bruzeau/
 [product-screenshot]: images/screenshot.png
