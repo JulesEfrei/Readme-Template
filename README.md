@@ -57,8 +57,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 * Share README template for your GitHub repository
 * State of the Project => Beta
 
