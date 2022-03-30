@@ -23,8 +23,8 @@
     <!-- <a href="https://github.com/JulesEfrei/REPOSITORY"><strong>Explore the docs</strong></a> -->
     <br />
     <br />
-    <!-- <a href="https://github.com/JulesEfrei/REPOSITORY">View Demo</a>
-    · -->
+    <a href="https://github.com/JulesEfrei/REPOSITORY">View Demo</a>
+    ·
     <a href="https://github.com/JulesEfrei/REPOSITORY/issues">Report Bug</a>
     ·
     <a href="https://github.com/JulesEfrei/REPOSITORY/pulls">Request Feature</a>
