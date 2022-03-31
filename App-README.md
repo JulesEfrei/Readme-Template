@@ -14,6 +14,7 @@
 <div align="center">
   
   <img src="images/logo.png" alt="Logo" width="80" height="80" />
+  <!-- https://drive.google.com/uc?export=view&id=      => Google drive Link -->
 
   <h2 align="center">Application Name</h2>
 
@@ -76,7 +77,7 @@
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks/libraries used to bootstrap your project.
 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
@@ -180,7 +181,7 @@ List of people
 
 Linked'in - [Jules](https://www.linkedin.com/in/jules-bruzeau/)
 
-GitHub Profile: [https://github.com/JulesEfrei/](https://github.com/JulesEfrei/)
+GitHub Profile: [JulesEfrei](https://github.com/JulesEfrei/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
